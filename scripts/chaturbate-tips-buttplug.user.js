@@ -4,8 +4,8 @@
 // @author buttplugio
 // @version 0.6
 // @homepage https://buttplugio.github.io/buttplug-tampermonkey
-// @updateurl https://github.com/buttplugio/buttplug-tampermonkey/raw/master/scripts/chaturbate-tips-buttplug.user.js
-// @downloadurl https://github.com/buttplugio/buttplug-tampermonkey/raw/master/scripts/chaturbate-tips-buttplug.user.js
+// @updateurl https://github.com/jabiim/buttplug-tampermonkey/raw/master/scripts/chaturbate-tips-buttplug.user.js
+// @downloadurl https://github.com/jabiim/buttplug-tampermonkey/raw/master/scripts/chaturbate-tips-buttplug.user.js
 // @include http*://chaturbate.com/*/
 // @include http*://*.chaturbate.com/*/
 // @include http*://cb.dev/*/
