@@ -1,0 +1,22 @@
+{
+  "name": "buttplug-tampermonkey",
+  "version": "0.6.0",
+  "description": "This repo houses scripts and utilties for using [buttplug-js](https://github.com/buttplugio/buttplug-js) (the javascript implementation of the [Buttplug Intimate Hardware Control Protocol](https://buttplug.io)) with the [Tampermonkey user script plugin](https://www.tampermonkey.net/). It contains both site specific scripts, as well as utilities for adding device enumeration and selection UI to new scripts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jabiim/buttplug-tampermonkey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jabiim/buttplug-tampermonkey/issues"
+  },
+  "homepage": "https://github.com/jabiim/buttplug-tampermonkey#readme",
+  "devDependencies": {
+    "buttplug": "1.0.17"
+  }
+}
